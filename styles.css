@@ -1,3 +1,24 @@
-p {
+html {
+  font-size: 1.5rem;
+}
+body {
+  padding: 1rem;
+  font-family: 'IBM Plex Sans', sans-serif;
+  line-height: 1.35rem;
+  margin: 0 14rem 1rem 8rem;
+}
+p,ol {
   color: #ff0000;
+  font-size: 1rem;
+}
+h1 {
+  color: #4f4f4f;
+  line-height: 3rem;
+  font-size: 3rem;
+}
+aside {
+  color: #4f4f4f;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  margin: 0 5rem 1rem 0;
 }
